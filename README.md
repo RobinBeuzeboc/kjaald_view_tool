@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+KjaaldViewTool::Renderer.copyright 'Robin Neu', 'All rights reserved'
+```
 
 ## Development
 
